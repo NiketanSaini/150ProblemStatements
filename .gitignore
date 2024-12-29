@@ -1,0 +1,29 @@
+# Node.js
+**/ts/node_modules/
+**/ts/package-lock.json
+
+# Go
+**/go/bin/
+**/go/pkg/
+**/go/.idea/
+**/go/.vscode/
+**/go/go.sum
+
+# Rust
+**/rust/target/
+**/rust/Cargo.lock
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Backup files
+*.bak
+*.swp
