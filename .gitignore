@@ -2,6 +2,10 @@
 **/ts/node_modules/
 **/ts/package-lock.json
 
+# 30Daysjs
+**/node_modules/
+**/package-lock.json
+
 # Go
 **/go/bin/
 **/go/pkg/
