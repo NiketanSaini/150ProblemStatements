@@ -1,21 +1,17 @@
 # Node.js
-**/ts/node_modules/
-**/ts/package-lock.json
-
-# 30Daysjs
 **/node_modules/
 **/package-lock.json
 
 # Go
-**/go/bin/
-**/go/pkg/
-**/go/.idea/
-**/go/.vscode/
-**/go/go.sum
+**/bin/
+**/pkg/
+**/.idea/
+**/.vscode/
+**/go.sum
 
 # Rust
-**/rust/target/
-**/rust/Cargo.lock
+**/target/
+**/Cargo.lock
 
 # OS specific files
 .DS_Store
